@@ -1,0 +1,7 @@
+def f(x): 
+  f_x=(-2*x+34) 
+  return f_x
+
+y = f(5) #pucherle play con 10 de input
+
+print(y) #imprimiendo nuestro output en la consola
