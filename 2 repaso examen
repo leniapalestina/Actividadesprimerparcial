@@ -1,0 +1,8 @@
+print("¿Me puedes decir cual es la longitud del rectangulo?")
+L= input()
+L= int(L)
+print("Gracias, ahora puedes decirme el ancho del rectangulo?")
+a=input()
+a=int(a)
+A=L*a
+print("El area total de este rectangulo es:", A)
