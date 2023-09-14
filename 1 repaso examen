@@ -1,0 +1,9 @@
+print("¿Me puedes decir el precio total?")
+p= input()
+p= int(p)
+print("¿Cuanto tiene de descuento?")
+d= input()
+d=int(d)
+s= (p*d)/100 
+t=p-s
+print("El costo total es:",t)
